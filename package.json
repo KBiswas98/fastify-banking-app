@@ -1,0 +1,20 @@
+{
+  "name": "tapin-kamalesh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KBiswas98/tapin-kamalesh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KBiswas98/tapin-kamalesh/issues"
+  },
+  "homepage": "https://github.com/KBiswas98/tapin-kamalesh#readme"
+}
