@@ -5,6 +5,13 @@
 - https://api.srvles.in/documentation
 
 
+*** About ***
+
+- DB: hosted on heroku
+- Data order: From bottom to top
+- Data is loaded from https://raw.githubusercontent.com/bhavyanshu/indian-bank-ifsc-branch-database-sql/master/bank_details.sql  
+
+
 
 ### ENV
 
