@@ -1,0 +1,29 @@
+{
+  "env": {
+      "browser": true,
+      "es2021": true
+  },
+  "extends": [
+      "plugin:react/recommended",
+      "standard",
+      "prettier"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+      "ecmaFeatures": {
+          "jsx": true
+      },
+      "ecmaVersion": 12,
+      "sourceType": "module"
+  },
+  "plugins": [
+      "react",
+      "@typescript-eslint"
+  ],
+  "rules": {
+      "no-tabs": "off",
+      "no-console":"error",
+      "react/boolean-prop-naming": ["error", { "rule": "^{is|has|are}[A-Z]([A-Za-z0-9]?)+"}],
+      "no-use-before-define": "off"
+  }
+}
