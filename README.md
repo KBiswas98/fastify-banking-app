@@ -1,5 +1,10 @@
 # tapin-kamalesh
 
+## API DOC
+- First change request type to `HTPPS`
+- https://api.srvles.in/documentation
+
+
 
 ### ENV
 
